@@ -44,7 +44,7 @@ Continuously updated to incorporate modernized and proven programming paradigms 
 
 ## How is COBOL being used today?
 
-COBOL is everywhere. You have probably used an application written in COBOL today. For example, consider the following statistics:
+COBOL is everywhere. You have probably used an application written in COBOL today. For example, consider the following statistics[^1]:
 
 - About 95% of ATM swipes use COBOL code.
 
@@ -54,11 +54,19 @@ COBOL is everywhere. You have probably used an application written in COBOL toda
 
 How pervasive is COBOL? Consider these mind-boggling facts:
 
-- Every day there are 200 times more COBOL transactions executed than there are Google searches.
+- Every day there are 200 times more COBOL transactions executed than there are Google searches.[^2]
 
-- There are over 220 billion lines of COBOL programs running today, which equates to around 80% of the world's actively used code.
+- There are over 220 billion lines of COBOL programs running today, which equates to around 80% of the world's actively used code.[^3]
 
-- 1,500,000,000 lines of new COBOL code are written each year.
+- 1,500,000,000 lines of new COBOL code are written each year.[^4]
+
+[^1]: Source: [Microfocus (2020)](https://www.microfocus.com/media/ebook/onward-and-upward-how-cobol-enables-mainframe-transformation-ebook.pdf)
+
+[^2]: Source: [Kennedy (2014)](https://www.siliconrepublic.com/enterprise/legacy-issues-200-times-more-cobol-transactions-today-than-google-searches)
+
+[^3]: Source: [IBM Mainframes.com](https://ibmmainframes.com/wiki/who-uses-mainframes.html)
+
+[^4]: Estimates range from 1,000,000,000 (cf. [Hall 2021](https://www.datacenterknowledge.com/design/no-cobol-not-dead-language)) to "several billion" (cf. archived [Kizior et al. 2000](https://web.archive.org~/web/20160817115437/http://proc.isecon.org/2000/126/ISECON.2000.Kizior.pdf)).
 
 ## Why should I care about COBOL?
 
